@@ -18,16 +18,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />[https://code.visualstudio.com/]
-<img align="left" alt="Jupyter" width=26px" src="https://jupyter.org/assets/main-logo.svg" />[https://jupyter.org/]
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />[https://git-scm.com/]
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />[https://github.com/]
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />[]
-<img align="left" alt="Python" width=26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />[https://www.python.org/]
-<img align="left" alt="Tensorflow" width=26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />[https://www.tensorflow.org/]
-<img align="left" alt="Pandas" width=26px" src="https://cdn.shortpixel.ai/spai/w_300+q_lossy+ret_img+to_webp/https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />[https://pandas.pydata.org/]
-<img align="left" alt="Numpy" width=26px" src="https://avatars3.githubusercontent.com/u/288276?s=200&v=4" />[https://numpy.org/]
-<img align="left" alt="Matplotlib" width=26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png" />[https://matplotlib.org/]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
+[<img align="left" alt="Jupyter" width=26px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+[<img align="left" alt="Python" width=26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Tensorflow" width=26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tf]
+[<img align="left" alt="Pandas" width=26px" src="https://cdn.shortpixel.ai/spai/w_300+q_lossy+ret_img+to_webp/https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][pd]
+[<img align="left" alt="Numpy" width=26px" src="https://avatars3.githubusercontent.com/u/288276?s=200&v=4" />][np]
+[<img align="left" alt="Matplotlib" width=26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png" />][plt]
 
 <br />
 <br />
@@ -45,3 +45,11 @@
 [instagram]: https://instagram.com/justffvrf
 [telegram]: https://t.me/tolstykhaa
 [facebook]: https://www.facebook.com/andrey.tolstyh.35
+
+[vs]: https://code.visualstudio.com/
+[jupyter]: https://jupyter.org/
+[git]: https://git-scm.com/
+[python]: https://www.python.org/
+[tf]: https://www.tensorflow.org/
+[np]: https://numpy.org/
+[plt]: https://matplotlib.org/
