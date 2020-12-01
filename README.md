@@ -55,3 +55,4 @@
 [np]: https://numpy.org/
 [plt]: https://matplotlib.org/
 [term]: https://www.linux.org/
+[pd]: https://pandas.pydata.org/
