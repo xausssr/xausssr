@@ -49,6 +49,7 @@
 [vs]: https://code.visualstudio.com/
 [jupyter]: https://jupyter.org/
 [git]: https://git-scm.com/
+[github]: https://github.com/
 [python]: https://www.python.org/
 [tf]: https://www.tensorflow.org/
 [np]: https://numpy.org/
